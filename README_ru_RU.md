@@ -39,8 +39,15 @@
 - Удаление всех ролей, кроме стандартной роли @everyone.
 - Простая настройка через `config.json`.
 
-# Установка
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/05-info-channel-del.gif">
+    <img alt="Project Logo" src="./media/05-info-channel-del.gif">
+  </picture>
+</p>
 
+
+# Установка
 
 ## Клонируем репозиторий
 ```bash
