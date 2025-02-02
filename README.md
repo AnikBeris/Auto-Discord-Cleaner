@@ -15,7 +15,7 @@
 
 </div>
 
-# Discord BOT with role management & Channel setup
+# Discord BOT for Cleaning Channels and Roles
 
 > **Disclaimer:** This project is intended for educational and personal use only. Do not use it for any illegal purposes or in a production environment.
 
