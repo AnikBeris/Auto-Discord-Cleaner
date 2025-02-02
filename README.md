@@ -40,6 +40,14 @@ Donations are warmly welcomed no matter how small and thank you very much. 😌
 - Deletes all roles except the default **@everyone** role.  
 - Easy setup via `config.json`.  
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/05-info-channel-del.gif">
+    <img alt="Project Logo" src="./media/05-info-channel-del.gif">
+  </picture>
+</p>
+
+
 # Installation
 
 ## Clone the Repository
