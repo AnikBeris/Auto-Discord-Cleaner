@@ -134,7 +134,7 @@ SUCCESS! The bot will start cleaning channels and roles!
 </p>
 
 ## License
-This project is licensed under the [MIT License](https://github.com/your-repo/blob/main/LICENSE).
+This project is licensed under the [MIT License](/LICENSE).
 
 ---
 
